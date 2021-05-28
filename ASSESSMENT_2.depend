@@ -1,0 +1,257 @@
+# depslib dependency file v1.0
+1617772494 source:c:\users\ricar\desktop\ict 283\assessed_lab5_exercise5\src\date.cpp
+	"date.h"
+
+1617772806 c:\users\ricar\desktop\ict 283\assessed_lab5_exercise5\include\date.h
+	<iostream>
+	<string.h>
+
+1617720453 source:c:\users\ricar\desktop\ict 283\assessed_lab5_exercise5\src\time.h.cpp
+	"time.h"
+
+1617773569 c:\users\ricar\desktop\ict 283\assessed_lab5_exercise5\include\time.h
+	<iostream>
+	<string.h>
+
+1617719535 source:c:\users\ricar\desktop\ict 283\assessed_lab5_exercise5\src\vector.cpp
+	"Vector.h"
+
+1617769794 c:\users\ricar\desktop\ict 283\assessed_lab5_exercise5\include\vector.h
+
+1617773493 source:c:\users\ricar\desktop\ict 283\assessed_lab5_exercise5\main.cpp
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<sstream>
+	<math.h>
+	"Date.h"
+	"Vector.h"
+	"Time.h"
+
+1617773006 source:c:\users\ricar\desktop\ict 283\assessed_lab5_exercise5\src\time.cpp
+	"Time.h"
+
+1617772806 c:\users\ricar\desktop\ict 283\assessed_lab5_exercise5\date.h
+	<iostream>
+	<string.h>
+
+1617769794 c:\users\ricar\desktop\ict 283\assessed_lab5_exercise5\vector.h
+
+1617773569 c:\users\ricar\desktop\ict 283\assessed_lab5_exercise5\time.h
+	<iostream>
+	<string.h>
+
+1617772494 source:c:\users\ricar\desktop\ict 283\assessed_lab5_exercise5\date.cpp
+	"date.h"
+
+1617773006 source:c:\users\ricar\desktop\ict 283\assessed_lab5_exercise5\time.cpp
+	"Time.h"
+
+1617772494 source:c:\users\ricar\desktop\murdoch units\ict 283\s1-21\assignment 1\date.cpp
+	"date.h"
+
+1618551942 c:\users\ricar\desktop\murdoch units\ict 283\s1-21\assignment 1\date.h
+	<iostream>
+	<string.h>
+
+1618551939 source:c:\users\ricar\desktop\murdoch units\ict 283\s1-21\assignment 1\time.cpp
+	"Time.h"
+
+1618554693 c:\users\ricar\desktop\murdoch units\ict 283\s1-21\assignment 1\time.h
+	<iostream>
+	<string.h>
+
+1618584626 source:c:\users\ricar\desktop\murdoch units\ict 283\s1-21\assignment 1\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<stdlib.h>
+	<sstream>
+	<math.h>
+	"Date.h"
+	"Vector.h"
+	"Time.h"
+	"AmbAirTemp.h"
+	"SolarRadiation.h"
+
+1618577851 c:\users\ricar\desktop\murdoch units\ict 283\s1-21\assignment 1\vector.h
+
+1618554684 source:c:\users\ricar\desktop\murdoch units\ict 283\s1-21\assignment 1\ambairtemp.cpp
+	"AmbAirTemp.h"
+
+1618576091 c:\users\ricar\desktop\murdoch units\ict 283\s1-21\assignment 1\ambairtemp.h
+	<iostream>
+	<string.h>
+
+1618575635 source:c:\users\ricar\desktop\murdoch units\ict 283\s1-21\assignment 1\solarradiation.cpp
+	"SolarRadiation.h"
+
+1618551943 c:\users\ricar\desktop\murdoch units\ict 283\s1-21\assignment 1\solarradiation.h
+	<iostream>
+	<string.h>
+
+1618554684 source:c:\users\ricar\desktop\murdoch units\ict 283\assignment 1_ricardo_laner_jacobsen_teixeira_34031229\assignment 1_ricardo_laner_jacobsen_teixeira_34031229\ambairtemp.cpp
+	"AmbAirTemp.h"
+
+1618576091 c:\users\ricar\desktop\murdoch units\ict 283\assignment 1_ricardo_laner_jacobsen_teixeira_34031229\assignment 1_ricardo_laner_jacobsen_teixeira_34031229\ambairtemp.h
+	<iostream>
+	<string.h>
+
+1617772494 source:c:\users\ricar\desktop\murdoch units\ict 283\assignment 1_ricardo_laner_jacobsen_teixeira_34031229\assignment 1_ricardo_laner_jacobsen_teixeira_34031229\date.cpp
+	"date.h"
+
+1618551942 c:\users\ricar\desktop\murdoch units\ict 283\assignment 1_ricardo_laner_jacobsen_teixeira_34031229\assignment 1_ricardo_laner_jacobsen_teixeira_34031229\date.h
+	<iostream>
+	<string.h>
+
+1618584626 source:c:\users\ricar\desktop\murdoch units\ict 283\assignment 1_ricardo_laner_jacobsen_teixeira_34031229\assignment 1_ricardo_laner_jacobsen_teixeira_34031229\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<stdlib.h>
+	<sstream>
+	<math.h>
+	"Date.h"
+	"Vector.h"
+	"Time.h"
+	"AmbAirTemp.h"
+	"SolarRadiation.h"
+
+1620016046 c:\users\ricar\desktop\murdoch units\ict 283\assignment 1_ricardo_laner_jacobsen_teixeira_34031229\assignment 1_ricardo_laner_jacobsen_teixeira_34031229\vector.h
+
+1618554693 c:\users\ricar\desktop\murdoch units\ict 283\assignment 1_ricardo_laner_jacobsen_teixeira_34031229\assignment 1_ricardo_laner_jacobsen_teixeira_34031229\time.h
+	<iostream>
+	<string.h>
+
+1618551943 c:\users\ricar\desktop\murdoch units\ict 283\assignment 1_ricardo_laner_jacobsen_teixeira_34031229\assignment 1_ricardo_laner_jacobsen_teixeira_34031229\solarradiation.h
+	<iostream>
+	<string.h>
+
+1618575635 source:c:\users\ricar\desktop\murdoch units\ict 283\assignment 1_ricardo_laner_jacobsen_teixeira_34031229\assignment 1_ricardo_laner_jacobsen_teixeira_34031229\solarradiation.cpp
+	"SolarRadiation.h"
+
+1618551939 source:c:\users\ricar\desktop\murdoch units\ict 283\assignment 1_ricardo_laner_jacobsen_teixeira_34031229\assignment 1_ricardo_laner_jacobsen_teixeira_34031229\time.cpp
+	"Time.h"
+
+1618554684 source:c:\users\ricar\desktop\murdoch units\ict 283\assessment_2_ricardo laner jacobsen teixeira_34031229\ambairtemp.cpp
+	"AmbAirTemp.h"
+
+1622118828 c:\users\ricar\desktop\murdoch units\ict 283\assessment_2_ricardo laner jacobsen teixeira_34031229\ambairtemp.h
+	<iostream>
+	<string.h>
+
+1618575635 source:c:\users\ricar\desktop\murdoch units\ict 283\assessment_2_ricardo laner jacobsen teixeira_34031229\solarradiation.cpp
+	"SolarRadiation.h"
+
+1618551943 c:\users\ricar\desktop\murdoch units\ict 283\assessment_2_ricardo laner jacobsen teixeira_34031229\solarradiation.h
+	<iostream>
+	<string.h>
+
+1618551939 source:c:\users\ricar\desktop\murdoch units\ict 283\assessment_2_ricardo laner jacobsen teixeira_34031229\time.cpp
+	"Time.h"
+
+1618554693 c:\users\ricar\desktop\murdoch units\ict 283\assessment_2_ricardo laner jacobsen teixeira_34031229\time.h
+	<iostream>
+	<string.h>
+
+1622007136 source:c:\users\ricar\desktop\murdoch units\ict 283\assessment_2_ricardo laner jacobsen teixeira_34031229\date.cpp
+	"date.h"
+
+1622006844 c:\users\ricar\desktop\murdoch units\ict 283\assessment_2_ricardo laner jacobsen teixeira_34031229\date.h
+	<iostream>
+	<string.h>
+
+1622168421 source:c:\users\ricar\desktop\murdoch units\ict 283\assessment_2_ricardo laner jacobsen teixeira_34031229\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<stdlib.h>
+	<sstream>
+	<math.h>
+	<cmath>
+	<map>
+	"BST.h"
+	"Date.h"
+	"Vector.h"
+	"DataCollector.h"
+	"Time.h"
+	"AmbAirTemp.h"
+	"SolarRadiation.h"
+
+1621864035 c:\users\ricar\desktop\murdoch units\ict 283\assessment_2_ricardo laner jacobsen teixeira_34031229\vector.h
+	<vector>
+
+1622176560 c:\users\ricar\desktop\murdoch units\ict 283\assessment_2_ricardo laner jacobsen teixeira_34031229\bst.h
+	<iostream>
+
+1622118414 c:\users\ricar\desktop\murdoch units\ict 283\assessment_2_ricardo laner jacobsen teixeira_34031229\collect.h
+	<iostream>
+	"Vector.h"
+	"BST.h"
+
+1622019715 source:c:\users\ricar\desktop\murdoch units\ict 283\assessment_2_ricardo laner jacobsen teixeira_34031229\datacontroll.cpp
+	"DataControll.h"
+
+1622020209 c:\users\ricar\desktop\murdoch units\ict 283\assessment_2_ricardo laner jacobsen teixeira_34031229\datacontroll.h
+
+1618554684 source:c:\users\ricar\desktop\assessment_2_ricardo laner jacobsen teixeira_34031229\ambairtemp.cpp
+	"AmbAirTemp.h"
+
+1618576091 c:\users\ricar\desktop\assessment_2_ricardo laner jacobsen teixeira_34031229\ambairtemp.h
+	<iostream>
+	<string.h>
+
+1622007136 source:c:\users\ricar\desktop\assessment_2_ricardo laner jacobsen teixeira_34031229\date.cpp
+	"date.h"
+
+1622006844 c:\users\ricar\desktop\assessment_2_ricardo laner jacobsen teixeira_34031229\date.h
+	<iostream>
+	<string.h>
+
+1622020442 source:c:\users\ricar\desktop\assessment_2_ricardo laner jacobsen teixeira_34031229\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<stdlib.h>
+	<sstream>
+	<math.h>
+	<cmath>
+	<map>
+	"BST.h"
+	"Date.h"
+	"Vector.h"
+	"Collect.h"
+	"Time.h"
+	"AmbAirTemp.h"
+	"SolarRadiation.h"
+
+1621997975 c:\users\ricar\desktop\assessment_2_ricardo laner jacobsen teixeira_34031229\bst.h
+	<iostream>
+
+1621864035 c:\users\ricar\desktop\assessment_2_ricardo laner jacobsen teixeira_34031229\vector.h
+	<vector>
+
+1622020427 c:\users\ricar\desktop\assessment_2_ricardo laner jacobsen teixeira_34031229\collect.h
+	<iostream>
+	"Vector.h"
+	"BST.h"
+
+1618554693 c:\users\ricar\desktop\assessment_2_ricardo laner jacobsen teixeira_34031229\time.h
+	<iostream>
+	<string.h>
+
+1618551943 c:\users\ricar\desktop\assessment_2_ricardo laner jacobsen teixeira_34031229\solarradiation.h
+	<iostream>
+	<string.h>
+
+1618575635 source:c:\users\ricar\desktop\assessment_2_ricardo laner jacobsen teixeira_34031229\solarradiation.cpp
+	"SolarRadiation.h"
+
+1618551939 source:c:\users\ricar\desktop\assessment_2_ricardo laner jacobsen teixeira_34031229\time.cpp
+	"Time.h"
+
+1622185188 c:\users\ricar\desktop\murdoch units\ict 283\assessment_2_ricardo laner jacobsen teixeira_34031229\datacollector.h
+	<iostream>
+	"Vector.h"
+	"BST.h"
+
